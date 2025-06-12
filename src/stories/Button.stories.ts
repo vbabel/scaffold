@@ -32,6 +32,13 @@ export const Primary: Story = {
   },
 };
 
+export const NewStory: Story = {
+  args: {
+    primary: true,
+    label: 'Button',
+  },
+}
+
 export const Secondary: Story = {
   args: {
     label: 'Button',
