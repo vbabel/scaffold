@@ -20,7 +20,6 @@ export const Page: React.FC = () => {
       />
 
     <section className="storybook-page">
-        <p>This is a change to the app</p>
         <h2>Pages in Storybook</h2>
         <p>
           We recommend building UIs with a{' '}
