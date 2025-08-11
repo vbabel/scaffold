@@ -49,10 +49,7 @@ export const Header = ({
       <div>
         {user ? (
           <>
-            {navigator.userAgent.toLowerCase().includes("firefox") && (
-              <div>firefox</div>
-            )}
-            <span className="welcome">
+            <span className="welcome" aria-busy="not-so-busy">
               Welcome, <b>{user.name}</b>!
             </span>
             <Button size="small" onClick={onLogout} label="Log out" />
