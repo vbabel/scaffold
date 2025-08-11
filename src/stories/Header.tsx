@@ -49,7 +49,7 @@ export const Header = ({
       <div>
         {user ? (
           <>
-            <span className="welcome" aria-busy="not-so-busy">
+            <span className="welcome">
               Welcome, <b>{user.name}</b>!
             </span>
             <Button size="small" onClick={onLogout} label="Log out" />
