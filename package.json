@@ -9,8 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build",
-    "chromatic": "npx chromatic --project-token=chpt_31fe9603699d0c0"
+    "build-storybook": "storybook build"
   },
   "dependencies": {
     "@storybook/addon-viewport": "^8.6.14",
