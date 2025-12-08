@@ -14,8 +14,8 @@ const config: StorybookConfig = {
     options: {},
   },
   refs: {
-    "design-system": {
-      title: "Storybook Design System",
+    "sso-project": {
+      title: "Victor's SSO Project",
       url: "https://main--692f2414467ea7adc881c3dc.dev-chromatic.com",
     },
   },
