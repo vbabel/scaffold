@@ -16,9 +16,8 @@ const config: StorybookConfig = {
   refs: {
     "design-system": {
       title: "Storybook Design System",
-      url: "https://<branch>--692f2414467ea7adc881c3dc.chromatic.com",
+      url: "https://main--692f2414467ea7adc881c3dc.dev-chromatic.com",
     },
   },
 };
 export default config;
-
