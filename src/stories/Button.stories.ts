@@ -39,7 +39,7 @@ export const NewStory: Story = {
   },
   globals: {
     // 👇 Override background value for this story
-    backgrounds: { value: "maroon" },
+    backgrounds: { value: "dark" },
   },
 };
 
