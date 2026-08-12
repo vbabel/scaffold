@@ -1,4 +1,4 @@
-import type { Preview } from "@storybook/react";
+import type { Preview } from "@storybook/react-vite";
 import { allModes } from "../.storybook/modes";
 
 import "../src/index.css";
