@@ -13,6 +13,10 @@ const preview: Preview = {
     },
     chromatic: {
       //🔶 Test each story for ArticleCard in two modes
+      modes: {
+        mobile: allModes["small"],
+        desktop: allModes["large"],
+      },
     },
     a11y: {
       // 'todo' - show a11y violations in the test UI only
