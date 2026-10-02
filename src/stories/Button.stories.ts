@@ -45,7 +45,7 @@ export const NewStory: Story = {
 
 export const Secondary: Story = {
   args: {
-    label: "Be the change",
+    label: "Button",
   },
 };
 
