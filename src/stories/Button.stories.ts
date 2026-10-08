@@ -32,27 +32,16 @@ export const Primary: Story = {
   },
 };
 
-export const NewStory: Story = {
-  args: {
-    primary: true,
-    label: "Button",
-  },
-  globals: {
-    // 👇 Override background value for this story
-    backgrounds: { value: "maroon" },
-  },
-};
-
 export const Secondary: Story = {
   args: {
-    label: "Buffoon",
+    label: "Button",
   },
 };
 
 export const Large: Story = {
   args: {
     size: "large",
-    label: "Button",
+    label: "Buttoon",
   },
 };
 
