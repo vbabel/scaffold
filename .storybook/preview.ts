@@ -25,7 +25,7 @@ const preview: Preview = {
       test: "todo",
     },
     backgrounds: {
-      // options
+      // opts
       options: {
         // 👇 Default options
         dark: { name: "Dark", value: "#333" },
