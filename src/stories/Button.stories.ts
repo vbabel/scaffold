@@ -38,12 +38,6 @@ export const Secondary: Story = {
   },
 };
 
-export const SecondaryLongLabel: Story = {
-  args: {
-    label: "Button with a pretty long label",
-  },
-};
-
 export const Large: Story = {
   args: {
     size: "large",
