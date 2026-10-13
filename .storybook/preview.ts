@@ -3,7 +3,6 @@ import { allModes } from "../.storybook/modes";
 
 import "../src/index.css";
 
-// comment
 const preview: Preview = {
   parameters: {
     controls: {
