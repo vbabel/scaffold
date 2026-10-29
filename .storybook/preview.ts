@@ -18,6 +18,7 @@ const preview: Preview = {
         desktop: allModes["large"],
       },
     },
+    // a11y change
     a11y: {
       // 'todo' - show a11y violations in the test UI only
       // 'error' - fail CI on a11y violations
